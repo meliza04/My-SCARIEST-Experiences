@@ -1,1 +1,40 @@
+body {
+  font-family: serif;
+  background: #211F1F;
+}
+h1 {
+  color: #FFFFFF;
+  font-size: 36px;
+  font-weight: bold;
+  text-shadow: 4px 4px #D5DE22
+}
+p1 {
+  color: #FFFFFF;
+  font-size: 16px;
+}
+h2 {
+  color: #FFFFFF;
+  font-size: 24px;
+}
+p2 {
+  color: #FFFFFF;
+  font-size: 16px;
+}
+p3 {
+  color: #B4D234;
+  font-size: 16px;
+  font-weight: bold;
+}
+li {
+  color: #FFFFFF;
+  font-size: 16px;
+}
+p4 {
+  color: #FFFFFF;
+  font-size: 16px;
+  font-weight: bold;
+}
 
+  
+    
+  
